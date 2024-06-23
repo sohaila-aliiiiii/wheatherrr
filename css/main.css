@@ -1,0 +1,200 @@
+.navbar
+{
+    height: 150px;
+}
+.nav
+{
+    background-color: #1E202B;
+
+}
+.navbar-toggler-icon
+{
+    color: white;
+    font-size: large;
+    line-height: 1;
+    background-color: transparent;
+
+    /* background-image: url(../image/) */
+   
+}
+button.navbar-toggler
+{
+    background-color: white;
+}
+.navbar-nav .nav-link.active
+{
+    border: #009AD8 solid 1px;
+    border-radius:20px ;
+   
+
+}
+.nav-item a
+{
+    color: white;
+}
+
+.nav-item a:hover
+{
+    border: #009AD8 solid 1px;
+    border-radius:20px ;
+    color: #009AD8!important;
+    
+}
+.bor
+{
+    border: 2px solid aqua
+   
+    
+
+}
+.head
+{
+    background-image: url(../image/banner.png);
+   ;
+    padding-bottom:20px ;
+}
+ .head input
+{
+    border: 2px solid #1E202B;
+    border-radius: 30px;
+   background-color: #1E202B;
+   height: 60px;
+   width: 75%;
+   
+}
+.head button
+{
+    /* position: absolute; */
+    border: 2px solid #009AD8;
+    border-radius: 30px;
+    color: white;
+    font-size: 20px;
+    background-color: #009AD8;
+    padding: 8px 16px;
+    /* left: 81.5%;
+    bottom: 17%;
+     */
+
+
+}
+
+.card1
+{
+    background-color: #323544;
+   
+    padding: 0;
+   
+}
+.card3
+{
+    background-color:#262936;
+   
+    padding: 0;
+   
+}
+.card2
+{
+    background-color:#262936;
+    
+    padding: 0;
+   
+}
+.cl
+{
+    background-color:#2D303D;
+    width: 100%;
+   
+}
+.cl2
+{
+    background-color:#2D303D;
+    width: 100%;
+   
+}
+.fs-9
+{
+font-size: 65px;
+}
+.clor
+{
+    color: #009AD8;
+}
+body
+{
+    background-color: #1E202B;
+}
+.cl1
+{
+    background-color: #222530;
+    width: 100%;
+   
+}
+.end
+{
+    background-color: #262936;
+}
+.end i
+{
+    color: #009AD8;
+}
+
+
+.end i:hover
+{
+    color: white;
+
+}
+.end p
+{
+    color: #BFC1C8;
+}
+.end input
+{
+    border: 2px solid #1E202B;
+    border-radius: 30px;
+   background-color: #1E202B;
+   height: 60px;
+}
+.bar
+{
+    border:2px solid transparent ;
+    border-radius:30px ;
+    background-color: #262936;
+    height: 50px;
+    
+}
+.bar span
+{
+    color: #BFC1C8;
+}
+.nav-link
+{
+    background-color: #1E202B;
+    /* position: fixed; */
+    /* z-index: 999; */
+
+}
+.inner
+{
+    background-color: #262936;
+    height: 300px;
+    border:2px solid transparent ;
+    border-radius:30px ;
+    display: flex;
+    flex-direction:  column-reverse;
+    
+}
+textarea
+{
+    border: 2px solid ;
+    border-radius: 19px;
+    height: 120px;
+}
+.sub
+{
+    background-color: #009AD8;
+    border: 2px solid #009AD8;
+    border-radius: 19px;
+    color: white;
+
+}
